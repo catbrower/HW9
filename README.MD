@@ -1,0 +1,1 @@
+To run this project it is recommended that you use [pipenv](https://pipenv.pypa.io/en/latest/)
